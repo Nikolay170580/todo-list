@@ -5,8 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/<ваше имя на GitHub>/todo-list/database"
-	"github.com/<ваше имя на GitHub>/todo-list/handlers"
+	"todo-list/database"
+	"todo-list/handlers"
+
 	"github.com/go-chi/chi/v5"
 )
 

@@ -8,8 +8,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Nikolay170580/todo-list/database"
-	"github.com/Nikolay170580/todo-list/models"
+	"todo-list/database"
+	"todo-list/models"
+
 	"github.com/go-chi/chi/v5"
 )
 
